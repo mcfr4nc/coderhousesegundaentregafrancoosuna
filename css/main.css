@@ -15,6 +15,11 @@ body {
      font-weight: 600;
     
  }
+ #menu li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
 
  #menu a{
      color:#3f3f3f;
